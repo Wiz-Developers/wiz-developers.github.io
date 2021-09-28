@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Do Check Our Website at 
-    wiz-developers.github.io[a link](https://wiz-developers.github.io)
+    [a link](https://wiz-developers.github.io)
 
 <!--
 **Wiz-Developers/Wiz-Developers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
